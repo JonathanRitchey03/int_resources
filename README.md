@@ -1,4 +1,4 @@
-# ✨Junior Dev Interview Resources
+# ✨Dev Interview Resources
 
 ### 🗓️ [Meetup List](MEETUPS.md)
 ### 🌐 [Practice sites](PRACTICE_SITES.md)
