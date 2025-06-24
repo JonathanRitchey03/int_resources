@@ -4,7 +4,7 @@
 
 - 🧠 _Using an online editor is much more challenging than using an IDE. It's necessary to know methods by heart, there's often no automatic code completion, and is a new skill and in of itself!!!_
 
-- 🚀_A quick way to get started to go to the [CoderPad Sandbox](https://coderpad.io/resources/docs/for-candidates/interview-preparation-guide/sandbox/) and select your language._
+- 🚀 _A quick way to get started to go to the [CoderPad Sandbox](https://coderpad.io/resources/docs/for-candidates/interview-preparation-guide/sandbox/) and select your language._
 
 ---
 
