@@ -6,17 +6,25 @@ _Platform offering developer coding challenges to prepare for technical intervie
 
 - [Leetcode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
 
+---
+
 ### [Exponent](https://tryexponent.com)
 
 _Five free peer online mock interviews._
+
+---
 
 ### [CodeWars](https://www.codewars.com/)
 
 _Kind of like a gym for interview practice._
 
+---
+
 ### [HackerRank](https://www.hackerrank.com/)
 
 _Mostly free site, offering online assessments and some free AI mock interviews. Used by employers for hiring assessments and devs to build interview skills. Used for certification._
+
+---
 
 ### [CoderPad Sandbox](https://coderpad.io/resources/docs/for-candidates/interview-preparation-guide/sandbox/)
 
